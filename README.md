@@ -1,6 +1,6 @@
 # Repositório de Exercícios sobre Collections - Curso DIO 📚
 
-Este repositório contém exercícios práticos sobre Collections em Java, abordando as principais interfaces e classes da biblioteca `java.util`, como `List`, `Set` e `Map`. Cada tipo de coleção possui três exercícios que exploram operações básicas, pesquisa e ordenação. Além disso, utilizei conceitos de **Stream API** para aprimorar a manipulação e o processamento dos dados nas coleções.
+Este repositório contém exercícios práticos sobre Collections em Java, abordando as principais interfaces e classes da biblioteca `java.util`, como `List`, `Set` e `Map`. Cada tipo de coleção possui exercícios que exploram operações básicas, pesquisa e ordenação. Além disso, utilizei conceitos de **Stream API** para aprimorar a manipulação e o processamento dos dados nas coleções.
 
 
 ## Link do Repositório do Desafio 🔗
